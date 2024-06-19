@@ -1,1 +1,3 @@
 # Display-Customer-Purchase-Orders-with-D3.js-Challenge
+
+This project was about creating a web application that shows specific purchase order data from a CSV file that uses D3.js. Every individual entry should have a<li> tag to show the customer name, order ID, and the purchase amount with varying values. To implement JavaScript, create a CSV file that is located in a data directory. D3.dsv should be used to grab the data from the CSV file that is formatted with headers.
